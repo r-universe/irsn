@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "DiceView",
+    "oncran": true
+  }
+]
