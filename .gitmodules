@@ -5,3 +5,6 @@
 [submodule "DiceView"]
 	path = DiceView
 	url = https://github.com/irsn/diceview
+[submodule "Renext"]
+	path = Renext
+	url = https://github.com/irsn/renext
